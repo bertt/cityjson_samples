@@ -1,5 +1,7 @@
 # CityJSON Samples
 
+Source data: https://www.cityjson.org/datasets/
+
 1] Textured railways
 
 Source CityJSON: https://3d.bk.tudelft.nl/opendata/cityjson/3dcities/v2.0/LoD3_Railway.city.json
