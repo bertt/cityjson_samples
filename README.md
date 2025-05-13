@@ -11,3 +11,12 @@ Converted to GLB: https://3dviewer.net/#model=https://bertt.github.io/cityjson_s
 ![image](https://github.com/user-attachments/assets/8948577c-f1ae-41d2-8eae-22ed4a59bece)
 
 
+2] Textured Delfshaven
+
+Source CityJSON: https://3d.bk.tudelft.nl/opendata/cityjson/3dcities/v2.0/3-20-DELFSHAVEN.city.json
+
+Textures: https://3d.bk.tudelft.nl/opendata/cityjson/3dcities/citygml/3-20-DELFSHAVEN.zip
+
+Converted to GLB: https://3dviewer.net/#model=https://bertt.github.io/cityjson_samples/delfshaven.glb
+
+3] 
