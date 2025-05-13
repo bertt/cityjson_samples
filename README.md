@@ -19,4 +19,6 @@ Textures: https://3d.bk.tudelft.nl/opendata/cityjson/3dcities/citygml/3-20-DELFS
 
 Converted to GLB: https://3dviewer.net/#model=https://bertt.github.io/cityjson_samples/delfshaven.glb
 
+![image](https://github.com/user-attachments/assets/830ae0e9-7fe1-48c1-89c3-099eef66aa14)
+
 3] 
