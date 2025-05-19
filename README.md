@@ -37,4 +37,9 @@ Converted to glb: https://3dviewer.net/#model=https://flatgeobuf.blob.core.windo
 ![image](https://github.com/user-attachments/assets/53cdb038-2fb6-46a8-aa4b-34c0830f0cad)
 
 
+4] Textured Euromast
+
+Source CityJSON/Textures: Export CityJSON with textures from https://www.3drotterdam.nl/
+
+Converted to glb: https://3dviewer.net/#model=https://bertt.github.io/cityjson_samples/euromast.glb
 
