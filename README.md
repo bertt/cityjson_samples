@@ -43,3 +43,6 @@ Source CityJSON/Textures: Export CityJSON with textures from https://www.3drotte
 
 Converted to glb: https://3dviewer.net/#model=https://bertt.github.io/cityjson_samples/euromast.glb
 
+![image](https://github.com/user-attachments/assets/f3790471-18de-4554-a6db-8b471e31cc42)
+
+
