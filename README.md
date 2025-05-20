@@ -14,7 +14,6 @@ Converted to GLB: https://3dviewer.net/#model=https://bertt.github.io/cityjson_s
 
 ![image](https://github.com/user-attachments/assets/8948577c-f1ae-41d2-8eae-22ed4a59bece)
 
-
 2] Textured Delfshaven
 
 Source data: https://www.cityjson.org/datasets/#some-randomly-selected-cities
@@ -41,7 +40,11 @@ Converted to glb: https://3dviewer.net/#model=https://flatgeobuf.blob.core.windo
 
 Source CityJSON/Textures: Export CityJSON with textures from https://www.3drotterdam.nl/
 
-Converted to glb: https://3dviewer.net/#model=https://bertt.github.io/cityjson_samples/euromast.glb
+Converted to glb: https://3dviewer.net/#model=https://bertt.github.io/cityjson_samples/euromast/euromast.glb
+
+As 3D Tileset: https://bertt.github.io/cityjson_samples/euromast/tileset.json
+
+In CesiumJS: https://bertt.github.io/cityjson_samples/euromast/index.html
 
 ![image](https://github.com/user-attachments/assets/f3790471-18de-4554-a6db-8b471e31cc42)
 
